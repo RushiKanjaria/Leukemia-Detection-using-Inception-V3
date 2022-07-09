@@ -6,3 +6,13 @@ The technology today is very advanced and fast. Most cancer diseases like breast
 In our project “Leukemia Detection using Inception V3” we will be using microscopic images of WBC of the patients having Leukaemia of ALL type. With the help of DL  methodologies, we will analyse the images and use them to train our model which will  eventually predict whether the patient is having ALL, when a new image is given as input  to the model. 
 
 The scope of our project is very general and only for research purpose. Till now we are  just focusing of how to use Deep Learning techniques to analyses an image and further  train a model using images to predict leukemia. On a long-term perspective, we will  surely try to take this project to next level where cancer will be predicted on early stage  and in real time.
+
+
+The usefull links needed for this project:
+
+Links to the Trained Model
+1) https://drive.google.com/file/d/1AYGk7bwh_c5rrINtRwpzLsUsY0BpgBX1/view?usp=sharing
+2) https://drive.google.com/file/d/1nmQXc3n8LDPO4xkup8C6yRBM34xCvW7B/view?usp=sharing
+
+Link of the Dataset
+1) https://www.kaggle.com/datasets/andrewmvd/leukemia-classification

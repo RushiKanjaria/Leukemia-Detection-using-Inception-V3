@@ -1,4 +1,4 @@
-# Leukemia-Prediction
+# Leukemia-Detection-using-Inception-V3
 A disease is a particular abnormal condition that negatively affects the structure or  function of all or part of an organism, and that is not due to any immediate external  injury. In humans, disease is often used more broadly to refer to any condition that  causes pain, dysfunction, distress, social problems, or death to the person afflicted, or  similar problems for those in contact with the person. Diseases such as Cancer is one  which is having high mortality rate. Cancer is a disease in which some of the body’s cells  grow uncontrollably and spread to other parts of the body causing death. Cancer is very  hard to predict and if not predicted on time can be fatal. 
 
 The technology today is very advanced and fast. Most cancer diseases like breast cancer  can be predicted. Yet there are more of cancers which cannot be predicted at an early  stage or till 3rd or 4th stage of disease, Such as Lung cancer, Colon Cancer, Leukaemia  (Blood Cancer). Here in our project, we are trying to analyse Leukemia a patient is  having by using a medical image. 
